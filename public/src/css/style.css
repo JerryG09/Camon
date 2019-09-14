@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white
+}
+
+h1 {
+    color: blueviolet;
+    background-color: aqua;
+    text-transform: capitalize;
+    font-size: 40px;
+    padding: 1rem;
+    margin: 0;
+}
