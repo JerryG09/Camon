@@ -1,13 +1,13 @@
 body {
-    background-color: black;
-    color: white
+    background-color: rgb(250, 244, 244);
+    color: black;
 }
 
-h1 {
+/* h1 {
     color: blueviolet;
     background-color: aqua;
     text-transform: capitalize;
     font-size: 40px;
     padding: 1rem;
     margin: 0;
-}
+} */
