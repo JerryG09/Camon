@@ -1,13 +1,16 @@
-body {
-    background-color: rgb(250, 244, 244);
-    color: black;
+.jumbotron {
+    background-image: url(../../img/camera.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
 
-/* h1 {
-    color: blueviolet;
-    background-color: aqua;
-    text-transform: capitalize;
-    font-size: 40px;
-    padding: 1rem;
-    margin: 0;
-} */
+section {
+    padding-top: 4rem;
+}
+
+
+#newsletter {
+    padding-top: 0;
+}
